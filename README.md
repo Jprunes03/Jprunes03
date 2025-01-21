@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Jprunes03
-- 👀 I’m interested in Computer Engineering and Ultimate Frsibee
 - 🌱 I’m currently learning Python
 
 <!---
